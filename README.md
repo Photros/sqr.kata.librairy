@@ -1,16 +1,14 @@
-# hanoi 2018
+# Kata library 
 
-Sources du projet Hanoi...
+Sources du Kata library...
 
 Le sujet du projet est donné dans : Projet_Hanoi.tps.papier.pdf
 
-Le projet est à rendre pour le 30/01/2018
-
 Faire un Fork de ce projet pour réaliser votre projet dans votre Github :
-1) Répondre aux questions du sujet directement dans Projet_Hanoi.tps.papier.pdf
+1) Répondre aux questions du sujet directement dans TD_GitEtTests_tps_papier.pdf
 2) Modifier le code du projet pour :
   - Ajouter vos tests avec JUnit (répertoire /src/test/java/...)
-  - Terminer le jeu (dernière question du sujet)
+  - Terminer le kata (coder la mthode amountSeries de KataLibrary)
 
 Une fois le Projet finit faire un PULL_REQUEST...
 
